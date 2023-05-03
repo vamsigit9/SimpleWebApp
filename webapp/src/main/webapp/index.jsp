@@ -99,7 +99,8 @@ h1{
                 <li><a href="#contact">Contact</a></li>
             </ul>
 		
-        </header/><h1>< YOU CANT BUY ME /h1>
+        </header>
+		<h1>< YOU CANT BUY ME </h1>
     </section>    
     <section id="about"><h1>This is the About Page</h1></section>
     <section id="product"><h1>This is the Product Web Page !!</h1></section>
