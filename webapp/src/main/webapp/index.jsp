@@ -100,7 +100,8 @@ h1{
             </ul>
 		
         </header>
-		<h1> OUT OF STOCK </h1>
+		<h1> LIMITED EDITION 
+			OUT OF STOCK </h1>
     </section>    
     <section id="about"><h1>This is the About Page</h1></section>
     <section id="product"><h1>This is the Product Web Page !!</h1></section>
