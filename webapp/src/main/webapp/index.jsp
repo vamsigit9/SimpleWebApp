@@ -103,7 +103,7 @@ h1{
 		<h1> LIMITED EDITION 
 			OUT OF STOCK </h1>
     </section>    
-    <section id="about"><h1>This is the About Page</h1></section>
+    <section id="about"><h1>Want To Know About BIB'S ??</h1></section>
     <section id="product"><h1>This is the Product Web Page !!</h1></section>
     <section id="pricing"><h1>This is the Pricing</h1></section>
     <section id="contact"><h1>This is the Contact Page!</h1></section>
