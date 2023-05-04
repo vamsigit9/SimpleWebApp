@@ -104,9 +104,9 @@ h1{
 			OUT OF STOCK </h1>
     </section>    
     <section id="about"><h1>Want To Know About BIB'S ??</h1></section>
-    <section id="product"><h1>This is the Product Web Page !!</h1></section>
-    <section id="pricing"><h1>This is the Pricing</h1></section>
-    <section id="contact"><h1>This is the Contact Page!</h1></section>
+    <section id="product"><h1>LIMITED STOCK !!</h1></section>
+    <section id="pricing"><h1>PRICELESS</h1></section>
+    <section id="contact"><h1>A MOM OF BULLU!</h1></section>
 
 </body>
 </html>
