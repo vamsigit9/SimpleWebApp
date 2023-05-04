@@ -106,7 +106,7 @@ h1{
     <section id="about"><h1>Want To Know About BIB'S ??</h1></section>
     <section id="product"><h1>LIMITED STOCK !!</h1></section>
     <section id="pricing"><h1>PRICELESS</h1></section>
-    <section id="contact"><h1>A MOM OF BULLU!</h1></section>
+    <section id="contact"><h1>THE MAKER MRS.A MOM OF BULLU!</h1></section>
 
 </body>
 </html>
