@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange">BULLU BIB'S </span>
+            <span style="font-size:64px;margin-right:10px;color:orange">BULLU BIB'S OFFICIAL WEBSITE </span>
             <ul id="menu">
 
                 <li><a href="#about">About Us</a></li>
@@ -106,7 +106,7 @@ h1{
     <section id="about"><h1>Want To Know About BIB'S ??</h1></section>
     <section id="product"><h1>LIMITED STOCK !!</h1></section>
     <section id="pricing"><h1>PRICELESS</h1></section>
-    <section id="contact"><h1>THE MAKER MRS.A MOM OF BULLU!</h1></section>
+    <section id="contact"><h1>THE MAKER MRS.A </h1></section>
 
 </body>
 </html>
